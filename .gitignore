@@ -1,0 +1,3 @@
+**/out*/
+*.code-workspace
+**/*kate-swp

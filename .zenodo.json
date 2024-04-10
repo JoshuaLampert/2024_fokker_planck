@@ -1,0 +1,23 @@
+{
+    "license": "MIT",
+    "title": "Reproducibility repository for Structure-Preserving Numerical Methods for Fokker-Planck Equations",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Applied Mathematics, University of Hamburg, Germany",
+            "name": "Bartel, Hanna",
+            "orcid": "0009-0001-1889-0123"
+        },
+        {
+            "affiliation": "Applied Mathematics, University of Hamburg, Germany",
+            "name": "Lampert, Joshua",
+            "orcid": "0009-0007-0971-6709"
+        },
+        {
+            "affiliation": "Institute of Mathematics, Johannes Gutenberg University Mainz, Germany",
+            "name": "Ranocha, Hendrik",
+            "orcid": "0000-0002-3456-2277"
+        }
+    ],
+    "access_right": "open"
+}
