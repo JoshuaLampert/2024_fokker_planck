@@ -8,7 +8,7 @@ This repository contains information and code to reproduce the results presented
 article
 ```bibtex
 @online{bartel2024structure,
-  title={Structure-Preserving Numerical Methods for Fokker-Planck Equations},
+  title={Structure-Preserving Numerical Methods for {F}okker-{P}lanck Equations},
   author={Bartel, Hanna and Lampert, Joshua and Ranocha, Hendrik},
   year={2024},
   month={04},
