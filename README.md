@@ -24,7 +24,7 @@ use the implementations provided here, please **also** cite this repository as
 @misc{bartel2024structureRepro,
   title={Reproducibility repository for
          "{S}tructure-Preserving Numerical Methods
-           for Fokker-Planck Equations"},
+           for {F}okker-{P}lanck Equations"},
   author={Bartel, Hanna and Lampert, Joshua and Ranocha, Hendrik},
   year={2024},
   howpublished={\url{https://github.com/JoshuaLampert/2024\_fokker\_planck}},
