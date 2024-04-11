@@ -22,7 +22,7 @@ table and the names of the resulting .pdf files:
 The resulting figures are then saved as `.pdf` files in a new directory `out`
 inside the folder of this `README.md`. The table (Table 1) is printed to the screen
 as LaTeX code. Note that the Figures 8 and 9 as well as the Table 1 display computation times,
-i.e., the results can differ depending on your machine. Note that Figures 6, 7, 8, and 9 need
+i.e., the results can differ depending on your machine. Note that Figures 6, 8, and 9 need
 a reference solution that has to be computed first. To do so, first execute the script
 `save_ref_sol.jl`.
 
