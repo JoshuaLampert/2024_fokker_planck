@@ -12,7 +12,7 @@ article
   author={Bartel, Hanna and Lampert, Joshua and Ranocha, Hendrik},
   year={2024},
   month={04},
-  eprint={TODO},
+  eprint={2404.07641},
   eprinttype={arxiv},
   eprintclass={math.NA}
 }
