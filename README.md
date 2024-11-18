@@ -7,11 +7,15 @@
 This repository contains information and code to reproduce the results presented in the
 article
 ```bibtex
-@online{bartel2024structure,
-  title={Structure-Preserving Numerical Methods for {F}okker-{P}lanck Equations},
+@article{bartel2024structure,
+  title={Structure-Preserving Numerical Methods for {F}okker-{P}lanck
+         Equations},
   author={Bartel, Hanna and Lampert, Joshua and Ranocha, Hendrik},
+  journal={Proceedings in Applied Mathematics and Mechanics},
+  pages={e202400007},
   year={2024},
-  month={04},
+  month={11},
+  doi={10.1002/pamm.202400007},
   eprint={2404.07641},
   eprinttype={arxiv},
   eprintclass={math.NA}
