@@ -8,8 +8,8 @@ This repository contains information and code to reproduce the results presented
 article
 ```bibtex
 @article{bartel2024structure,
-  title={Structure-Preserving Numerical Methods for {F}okker-{P}lanck
-         Equations},
+  title={Structure-preserving numerical methods for {F}okker-{P}lanck
+         equations},
   author={Bartel, Hanna and Lampert, Joshua and Ranocha, Hendrik},
   journal={Proceedings in Applied Mathematics and Mechanics},
   pages={e202400007},
